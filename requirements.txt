@@ -2,3 +2,4 @@ jupyterlab
 notebook
 ipykernel
 numpy
+pandas
