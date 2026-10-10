@@ -3,3 +3,4 @@ notebook
 ipykernel
 numpy
 pandas
+matplotlib
